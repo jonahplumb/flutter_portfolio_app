@@ -1,9 +1,9 @@
 # portfolio-app
 
-## Unfinished Mobile app
+## Unfinished Mobile app from Summer of 2023
 
-Intro to Flutter mobile app build. Focused on learning the widgets and language. <br>
-Didnt focus at all on organziation, mainly prepping/learning before starting my [Optic App](https://github.com/jonahplumb/When-Does-Optic-Play) <br>
+Intro to Flutter mobile app build. Mainly focused on learning the widgets and language. <br>
+Didn't focus at all on organziation, mainly prepping/learning before starting my [Optic App](https://github.com/jonahplumb/When-Does-Optic-Play).<br>
 Took static flutter app tutorial from [https://www.youtube.com/watch?v=Gz3IEFe5PIw](https://www.youtube.com/watch?v=Gz3IEFe5PIw) and made the following improvements: <br>
 
 1. Added 3 screens (Charts, Settings, Porfolio)
@@ -16,8 +16,8 @@ Took static flutter app tutorial from [https://www.youtube.com/watch?v=Gz3IEFe5P
 
 ## Screenshots
 
-![failed](./images_for_readme/stocks-2.PNG) <br>
-![failed](./images_for_readme/stocks-1.PNG) <br>
+![failed](./images_for_readme/stocks-2.PNG)
+![failed](./images_for_readme/stocks-1.PNG)
 ![failed](./images_for_readme/portfolio-3.PNG)
 ![failed](./images_for_readme/portfolio-2.PNG)
 ![failed](./images_for_readme/portfiol-1.PNG)
