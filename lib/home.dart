@@ -15,7 +15,6 @@ class HomePage extends StatelessWidget {
       child: Container(
         padding: EdgeInsets.all(10),
         width: MediaQuery.of(context).size.width,
-        // color: Colors.black,
         color: backColor,
         child: SafeArea(
           child: Column(
