@@ -3,6 +3,7 @@
 ## Unfinished Mobile app
 
 Intro to Flutter mobile app build. Focusing on learning the widgets and language. <br>
+Didnt focus at all on organziation, mainly prepping/learning before starting my [Optic App](https://github.com/jonahplumb/When-Does-Optic-Play) <br>
 Took static flutter app tutorial from [https://www.youtube.com/watch?v=Gz3IEFe5PIw](https://www.youtube.com/watch?v=Gz3IEFe5PIw) and made the following improvements: <br>
 
 1. Added 3 screens (Charts, Settings, Porfolio)
